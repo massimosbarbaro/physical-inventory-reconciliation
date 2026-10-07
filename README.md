@@ -1,8 +1,10 @@
 # Inventario: physical inventory reconciliation between barcode terminals and ERP count tags
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23205207.svg)](https://doi.org/10.5281/zenodo.23205207)
+
 *Inventario fisico: riconciliazione tra terminali barcode e cartellini del gestionale*
 
-**Visual Basic 6** · 2002 · version 1.2.4  
+2002 · version 1.2.4  
 Author: **Massimo Sbarbaro** ([ORCID 0009-0006-8965-9013](https://orcid.org/0009-0006-8965-9013))
 
 ## Overview
@@ -30,7 +32,7 @@ DAO 3.51, Microsoft Access 8 object library, Crystal Reports, Winsock, Common Co
 
 | Path | Content |
 |---|---|
-| `src/` | Visual Basic 6 project (`.vbp`), forms (`.frm` with their binary resources `.frx`) and modules (`.bas`), as listed in the project file. |
+| `src/` | Project file (`.vbp`), forms (`.frm` with their binary resources `.frx`) and modules (`.bas`), as listed in the project file. |
 | `config-example/` | Templates of the `.ini` configuration files read at start-up, with placeholder values. |
 
 ## What is not included
@@ -39,13 +41,13 @@ Crystal Reports layouts (`.rpt`), compiled executables, installers, scripts for 
 
 ## Related repositories
 
-- [warehouse-rack-locations-vb6](https://github.com/massimosbarbaro/warehouse-rack-locations-vb6)
+- [warehouse-rack-locations](https://github.com/massimosbarbaro/warehouse-rack-locations)
 
 ## How to cite
 
-Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). Each release is archived on Zenodo with its own DOI.
+Use the citation metadata in [`CITATION.cff`](CITATION.cff) (GitHub: *Cite this repository*). The release is archived on Zenodo with the DOI [10.5281/zenodo.23205207](https://doi.org/10.5281/zenodo.23205207).
 
-> Sbarbaro, Massimo. *Inventario: physical inventory reconciliation between barcode terminals and ERP count tags (Visual Basic 6, 2002)*. Software, version 1.2.4. GitHub: https://github.com/massimosbarbaro/physical-inventory-reconciliation-vb6
+> Sbarbaro, Massimo. 2002. *Inventario: physical inventory reconciliation between barcode terminals and ERP count tags*. Software (2002), version 1.2.4. Zenodo. https://doi.org/10.5281/zenodo.23205207.
 
 ## License
 
