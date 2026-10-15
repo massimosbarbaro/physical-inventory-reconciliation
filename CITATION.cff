@@ -12,7 +12,6 @@ license: MIT
 doi: "10.5281/zenodo.23205207"
 repository-code: "https://github.com/massimosbarbaro/physical-inventory-reconciliation"
 keywords:
-  - "Visual Basic 6"
   - "inventory"
   - "stock count"
   - "barcode terminals"
