@@ -22,11 +22,11 @@ I designed and programmed this application in 2002. It is published here in 2026
 
 ## Data
 
-Microsoft Access database (`Inventario.mdb`) through DAO. Main tables: `MFG`, `Terminale`, `Stato`.
+Database (`Inventario.mdb`) through DAO. Main tables: `MFG`, `Terminale`, `Stato`.
 
 ## Technology
 
-DAO 3.51, Microsoft Access 8 object library, Crystal Reports, Winsock, Common Controls, Masked Edit.
+DAO 3.51, db object library 8, Crystal Reports, Winsock, Common Controls, Masked Edit.
 
 ## Repository contents
 
